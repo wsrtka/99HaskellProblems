@@ -11,6 +11,6 @@ If you want to test your skills with these problems, feel free to download the s
 Make sure to have all dependencies installed. The scraper works with Python 3.7 and up.
 
 ### Notes
-Scraper was written on the 23rd December 2020, so note that the Haskell Wiki might have changed since then.
+Scraper was written on the 23rd December 2020, so note that the Haskell Wiki might have changed since then. Feel free to suggest your own improvements to the scraper!
 
 If you liked this repo, leave a star!

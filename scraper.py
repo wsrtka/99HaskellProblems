@@ -39,15 +39,15 @@ if __name__ == "__main__":
 
                 if child.name == "h2":
                     if title and "Problem" in title:
-                        title = title.replace(" ", "_")
+                        title_to_save = title.replace(" ", "_")
                         try:
-                            os.mkdir(f"{path}/{title}")
+                            os.mkdir(f"{path}/{title_to_save}")
                         except (OSError, FileExistsError):
-                            print(f"Creation of directory {path}/{title} failed.")
+                            print(f"Creation of directory {path}/{title_to_save} failed.")
                         else:
-                            print(f"Successfully created directory {path}/{title}.")
+                            print(f"Successfully created directory {path}/{title_to_save}.")
 
-                        with open(f"{path}/{title}/{title}.md", "w") as file:
+                        with open(f"{path}/{title_to_save}/{title_to_save}.md", "w") as file:
                             file.write(f"# {title}\n")
                             file.write(f"### Difficulty: {difficulty}\n")
                             file.write(f"{description}\n")
