@@ -1,4 +1,4 @@
-# Problem_57
+# Problem 57
 ### Difficulty: medium
 Binary search trees (dictionaries)
 Use the predicate add/3, developed in chapter 4 of the course, to write a predicate to construct a binary search tree from a list of integer numbers.

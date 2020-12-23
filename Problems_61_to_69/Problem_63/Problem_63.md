@@ -1,4 +1,4 @@
-# Problem_63
+# Problem 63
 ### Difficulty: 
 Construct a complete binary tree
 A complete binary tree with height H is defined as follows:

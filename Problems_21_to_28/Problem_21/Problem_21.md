@@ -1,4 +1,4 @@
-# Problem_21
+# Problem 21
 ### Difficulty: 
 Insert an element at a given position into a list.
 

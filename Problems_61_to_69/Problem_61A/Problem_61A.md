@@ -1,4 +1,4 @@
-# Problem_61A
+# Problem 61A
 ### Difficulty: 
 Collect the leaves of a binary tree in a list
 A leaf is a node with no successors. Write a predicate leaves/2 to collect them in a list.

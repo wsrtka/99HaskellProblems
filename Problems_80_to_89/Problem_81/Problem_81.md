@@ -1,4 +1,4 @@
-# Problem_81
+# Problem 81
 ### Difficulty: medium
 Path from one node to another one
 Write a function that, given two nodes a and b in a graph, returns all the acyclic paths from a to b.

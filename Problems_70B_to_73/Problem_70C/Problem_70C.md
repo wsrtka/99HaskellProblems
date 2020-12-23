@@ -1,4 +1,4 @@
-# Problem_70C
+# Problem 70C
 ### Difficulty: easy
 Count the nodes of a multiway tree.
 

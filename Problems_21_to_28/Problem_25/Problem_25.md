@@ -1,4 +1,4 @@
-# Problem_25
+# Problem 25
 ### Difficulty: 
 Generate a random permutation of the elements of a list.
 

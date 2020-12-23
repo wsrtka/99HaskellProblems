@@ -1,4 +1,4 @@
-# Problem_36
+# Problem 36
 ### Difficulty: medium
 Determine the prime factors of a given positive integer.
 Construct a list containing the prime factors and their multiplicity.

@@ -1,4 +1,4 @@
-# Problem_70B
+# Problem 70B
 ### Difficulty: easy
 A multiway tree is composed of a root element and a (possibly empty) set of successors which are multiway trees themselves. A multiway tree is never empty. The set of successor trees is sometimes called a forest.
 Check whether a given term represents a multiway tree.

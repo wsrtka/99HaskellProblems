@@ -1,4 +1,4 @@
-# Problem_61
+# Problem 61
 ### Difficulty: 
 As defined in problem 54A.
 An example tree:

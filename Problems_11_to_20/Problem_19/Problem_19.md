@@ -1,4 +1,4 @@
-# Problem_19
+# Problem 19
 ### Difficulty: medium
 Rotate a list N places to the left.
 Hint: Use the predefined functions length and (++).

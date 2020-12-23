@@ -1,4 +1,4 @@
-# Problem_1
+# Problem 1
 ### Difficulty: easy
 Find the last element of a list.
 (Note that the Lisp transcription of this problem is incorrect.)

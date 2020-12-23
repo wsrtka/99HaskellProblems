@@ -1,4 +1,4 @@
-# Problem_96
+# Problem 96
 ### Difficulty: medium
 Syntax checker
 In a certain programming language (Ada) identifiers are defined by the syntax diagram below.

@@ -1,4 +1,4 @@
-# Problem_90
+# Problem 90
 ### Difficulty: medium
 If you want to work on one of these, put your name in the block so we know someone's working on it. Then, change n in your block to the appropriate problem number, and fill in the <Problem description>,<example in Haskell>,<solution in haskell> and <description of implementation> fields. 
 Eight queens problem

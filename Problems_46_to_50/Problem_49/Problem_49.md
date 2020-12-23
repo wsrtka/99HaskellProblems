@@ -1,4 +1,4 @@
-# Problem_49
+# Problem 49
 ### Difficulty: medium
 Gray codes.
 An n-bit Gray code is a sequence of n-bit strings constructed according to certain rules. For example,

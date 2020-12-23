@@ -1,4 +1,4 @@
-# Problem_66
+# Problem 66
 ### Difficulty: 
 Yet another layout strategy is shown in the illustration below:
 The method yields a very compact layout while maintaining a certain symmetry in every node. Find out the rules and write the corresponding Prolog predicate. Hint: Consider the horizontal distance between a node and its successor nodes. How tight can you pack together two subtrees to construct the combined binary tree?

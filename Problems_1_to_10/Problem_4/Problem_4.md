@@ -1,4 +1,4 @@
-# Problem_4
+# Problem 4
 ### Difficulty: easy
 Find the number of elements of a list.
 

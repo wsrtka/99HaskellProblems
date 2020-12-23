@@ -1,4 +1,4 @@
-# Problem_31
+# Problem 31
 ### Difficulty: medium
 Determine whether a given integer number is prime.
 

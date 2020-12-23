@@ -1,4 +1,4 @@
-# Problem_80
+# Problem 80
 ### Difficulty: hard
 If you want to work on one of these, put your name in the block so we know someone's working on it. Then, change n in your block to the appropriate problem number, and fill in the <Problem description>,<example in lisp>,<example in Haskell>,<solution in haskell> and <description of implementation> fields. 
 A graph is defined as a set of nodes and a set of edges, where each edge is a pair of nodes. 

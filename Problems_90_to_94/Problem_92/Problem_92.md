@@ -1,4 +1,4 @@
-# Problem_92
+# Problem 92
 ### Difficulty: hard
 Von Koch's conjecture
 Several years ago I met a mathematician who was intrigued by a problem for which he didn't know a solution. His name was Von Koch, and I don't know whether the problem has been solved since.

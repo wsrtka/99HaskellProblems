@@ -1,4 +1,4 @@
-# Problem_86
+# Problem 86
 ### Difficulty: medium
 Node degree and graph coloration
 a) Write a predicate degree(Graph,Node,Deg) that determines the degree of a given node.

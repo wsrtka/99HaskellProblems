@@ -1,4 +1,4 @@
-# Problem_15
+# Problem 15
 ### Difficulty: medium
 Replicate the elements of a list a given number of times.
 

@@ -1,4 +1,4 @@
-# Problem_54A
+# Problem 54A
 ### Difficulty: easy
 A binary tree is either empty or it is composed of a root element and two successors, which are binary trees themselves.
 In Haskell, we can characterize binary trees with a datatype definition:

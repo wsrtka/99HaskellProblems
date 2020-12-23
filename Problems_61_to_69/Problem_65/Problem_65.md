@@ -1,4 +1,4 @@
-# Problem_65
+# Problem 65
 ### Difficulty: 
 An alternative layout method is depicted in the illustration below:
 Find out the rules and write the corresponding function.

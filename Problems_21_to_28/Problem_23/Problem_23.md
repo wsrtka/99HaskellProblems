@@ -1,4 +1,4 @@
-# Problem_23
+# Problem 23
 ### Difficulty: 
 Extract a given number of randomly selected elements from a list. 
 

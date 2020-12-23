@@ -1,4 +1,4 @@
-# Problem_2
+# Problem 2
 ### Difficulty: easy
 Find the last but one element of a list.
 (Note that the Lisp transcription of this problem is incorrect.)

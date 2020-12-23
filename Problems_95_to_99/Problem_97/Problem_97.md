@@ -1,4 +1,4 @@
-# Problem_97
+# Problem 97
 ### Difficulty: medium
 Sudoku
 Sudoku puzzles go like this:

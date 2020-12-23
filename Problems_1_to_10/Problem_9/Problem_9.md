@@ -1,4 +1,4 @@
-# Problem_9
+# Problem 9
 ### Difficulty: medium
 Pack consecutive duplicates of list elements into sublists.
 If a list contains repeated elements they should be placed in separate sublists.

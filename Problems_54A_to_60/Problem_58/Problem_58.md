@@ -1,4 +1,4 @@
-# Problem_58
+# Problem 58
 ### Difficulty: medium
 Generate-and-test paradigm
 Apply the generate-and-test paradigm to construct all symmetric, completely balanced binary trees with a given number of nodes.

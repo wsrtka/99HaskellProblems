@@ -1,4 +1,4 @@
-# Problem_16
+# Problem 16
 ### Difficulty: medium
 Drop every N'th element from a list.
 

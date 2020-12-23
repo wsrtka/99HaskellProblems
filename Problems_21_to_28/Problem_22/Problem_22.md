@@ -1,4 +1,4 @@
-# Problem_22
+# Problem 22
 ### Difficulty: 
 Create a list containing all integers within a given range.
 

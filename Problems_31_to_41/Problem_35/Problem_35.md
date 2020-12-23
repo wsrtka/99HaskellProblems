@@ -1,4 +1,4 @@
-# Problem_35
+# Problem 35
 ### Difficulty: medium
 Determine the prime factors of a given positive integer. Construct a flat list containing the prime factors in ascending order.
 

@@ -1,4 +1,4 @@
-# Problem_8
+# Problem 8
 ### Difficulty: medium
 Eliminate consecutive duplicates of list elements.
 If a list contains repeated elements they should be replaced with a single copy of the element. The order of the elements should not be changed.

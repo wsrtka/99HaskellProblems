@@ -1,4 +1,4 @@
-# Problem_70
+# Problem 70
 ### Difficulty: medium
 Tree construction from a node string.
 We suppose that the nodes of a multiway tree contain single characters. In the depth-first order sequence of its nodes, a special character ^ has been inserted whenever, during the tree traversal, the move is a backtrack to the previous level.

@@ -1,4 +1,4 @@
-# Problem_67A
+# Problem 67A
 ### Difficulty: 
 A string representation of binary trees
 Somebody represents binary trees as strings of the following type:

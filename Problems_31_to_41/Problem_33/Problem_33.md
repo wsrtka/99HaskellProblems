@@ -1,4 +1,4 @@
-# Problem_33
+# Problem 33
 ### Difficulty: easy
 Determine whether two positive integer numbers are coprime. Two numbers are coprime if their greatest common divisor equals 1.
 

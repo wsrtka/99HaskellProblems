@@ -1,4 +1,4 @@
-# Problem_32
+# Problem 32
 ### Difficulty: 
 
 Example:

@@ -1,4 +1,4 @@
-# Problem_71
+# Problem 71
 ### Difficulty: easy
 Determine the internal path length of a tree.
 

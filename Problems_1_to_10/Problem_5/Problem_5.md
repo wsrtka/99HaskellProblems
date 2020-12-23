@@ -1,4 +1,4 @@
-# Problem_5
+# Problem 5
 ### Difficulty: easy
 Reverse a list.
 

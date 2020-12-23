@@ -1,4 +1,4 @@
-# Problem_27
+# Problem 27
 ### Difficulty: 
 Group the elements of a set into disjoint subsets.
 a) In how many ways can a group of 9 people work in 3 disjoint subgroups of 2, 3 and 4 persons? Write a function that generates all the possibilities and returns them in a list.

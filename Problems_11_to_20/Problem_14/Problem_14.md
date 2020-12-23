@@ -1,4 +1,4 @@
-# Problem_14
+# Problem 14
 ### Difficulty: easy
 Duplicate the elements of a list.
 
