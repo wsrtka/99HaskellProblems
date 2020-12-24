@@ -86,3 +86,25 @@ if __name__ == "__main__":
                     for c in child.children:
                         code += c.string
                     code_snippets.append(code)
+            
+            # TODO: make function out of this
+            if title and "Problem" in title:
+                        title_to_save = title.replace(" ", "_")
+                        try:
+                            os.mkdir(f"{path}/{title_to_save}")
+                        except (OSError, FileExistsError):
+                            print(f"Creation of directory {path}/{title_to_save} failed.")
+                        else:
+                            print(f"Successfully created directory {path}/{title_to_save}.")
+
+                        with open(f"{path}/{title_to_save}/{title_to_save}.md", "w") as file:
+                            file.write(f"# {title}\n")
+                            file.write(f"### Difficulty: {difficulty}\n")
+                            file.write(f"{description}\n")
+
+                            for i, e in enumerate(examples):
+                                if len(examples) - len(code_snippets) > 0 and len(examples) - len(code_snippets) > i:
+                                    continue
+                                file.write(f"{e}\n")
+                                file.write(f"```\n{code_snippets[i - (len(examples) - len(code_snippets))]}```\n")
+                            file.write(f"[Solution]({base_address}{solution_link})\n")
