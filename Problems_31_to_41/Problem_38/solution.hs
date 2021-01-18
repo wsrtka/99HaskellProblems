@@ -1,0 +1,2 @@
+-- solution from 34: 20.7 secs
+-- solution from 37: 0.03 secs
