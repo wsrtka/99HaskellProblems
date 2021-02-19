@@ -2,6 +2,7 @@ import Data.List
 import Data.Array
 import Control.Monad
 
+vonKoch :: [(Int, Int)] -> [[Int]]
 vonKoch edges = do
     let n = length edges + 1
     nodes <- permutations [1..n]
